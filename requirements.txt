@@ -1,0 +1,8 @@
+torch
+torchvision
+pytorch-lightning
+mlflow
+pillow
+pyyaml
+ipython
+numpy
